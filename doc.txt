@@ -1,0 +1,4 @@
+##to build :
+cd poky
+. oe-init-build-env
+
